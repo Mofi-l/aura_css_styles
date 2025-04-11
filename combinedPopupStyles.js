@@ -7,7 +7,7 @@ export function injectCombinedPopupStyles() {
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%) scale(0);
-            z-index: 10000;
+            z-index: 10001;
             background: url(https://raw.githubusercontent.com/Mofi-l/static-images/main/Background.jpg) no-repeat center center / cover;
             padding: 35px;
             border-radius: 24px;
